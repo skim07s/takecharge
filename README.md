@@ -9,7 +9,7 @@ A simple self hosted habit tracker with a Go + SQLite backend and a single-page 
 - View fasting history with duration, timestamps, and estimates for water weight and fat loss
 - Data persists across container restarts via SQLite
 
-## Quick Start
+## Quick Start 
 
 Create a `docker-compose.yml`:
 
